@@ -12,7 +12,7 @@
         <!-- Servlet API -->
         <dependency>
             <groupId>javax.servlet</groupId>
-            <artifactId>javax.servlet-api</artifactId>
+            <artifactId>javax.servlet-a</artifactId>
             <version>4.0.1</version>
             <scope>provided</scope>
         </dependency>
